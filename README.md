@@ -1,5 +1,5 @@
 
-<div align="Left">
+<div align="Right">
   <img src="/assets/logo.png" />
   <h1>Pixel8</h1>  
 </div>
