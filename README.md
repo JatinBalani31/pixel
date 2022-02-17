@@ -11,7 +11,7 @@ A collection of low-res primitives for creating art and games with React
 [![NPM Downloads](https://img.shields.io/npm/dm/pixel8.svg?style=flat)](https://www.npmjs.org/package/pixel8)
 [![Discord](https://img.shields.io/discord/443995389809393666.svg?style=flat)](https://discord.gg/VYeM6ZK)
 
-## Why?
+## Why this project ?
 
 Pixel8 is my attempt to create a way for developers – beginners and experts alike – to create pixel art and games with a level of simplicity and freedom that I have yet to discover in any alternative. This library does not aim to be a a full game framework or fantasy console, but it can definitely be used as a building block for such apps.
 
